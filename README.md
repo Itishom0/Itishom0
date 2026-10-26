@@ -56,6 +56,12 @@ Building projects, exploring backend systems, and learning by doing.
 
 To become a well-rounded Full-Stack Developer with a strong foundation in backend engineering, databases, and deployment.
 
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/z.zannn_/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itishomfauzan@gmail.com)
+
+
 ---
 
 <div align="center">
