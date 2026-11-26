@@ -1,10 +1,13 @@
+
 <div align="center">
 
-# Hey, I'm a Developer in Progress 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=200&section=header&text=ITISHOM%20FAUZAN&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Developer%20in%20Progress&descAlignY=58&animation=fadeIn" width="100%" />
 
-### 🎓 Informatics Student | Aspiring Full-Stack Developer
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Informatics+Student+%F0%9F%8E%93;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Backend+Development+Enthusiast+%E2%9A%99%EF%B8%8F;Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-Building projects, exploring backend systems, and learning by doing.
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -16,57 +19,97 @@ Building projects, exploring backend systems, and learning by doing.
 
 ## 👨‍💻 About Me
 
-- 🎓 Informatics student from Indonesia 🇮🇩
-- 💻 Interested in full-stack development and backend engineering
-- ⚙️ Learning how to build APIs, work with databases, and deploy applications
-- 🐧 Exploring Linux, self-hosting, and server management
-- 🚀 Always learning and turning knowledge into practical projects
+```javascript
+const developer = {
+    name: "Itishom Fauzan",
+    location: "Indonesia 🇮🇩",
+    education: "Informatics Student",
+    role: "Aspiring Full-Stack Developer",
 
-## 🛠️ Tech Stack
+    interests: [
+        "Backend Development",
+        "REST API",
+        "Database Management",
+        "Linux & Self-Hosting"
+    ],
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+    currentlyLearning: [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Frontend Development"
+    ],
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+    motto: "Learn consistently. Build practically."
+};
+```
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+I enjoy exploring how applications work behind the scenes, building practical projects, and improving my development skills through hands-on experience.
 
-### Tools & Infrastructure
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+## ⚡ Tech Stack
 
-## 🌱 Currently Learning
+**Languages & Frontend**
 
-- Building backend applications with Node.js
-- Designing REST APIs and working with databases
-- Improving frontend development and UI implementation
-- Deploying applications and managing self-hosted services
-- Writing cleaner, more maintainable, and secure code
+<p>
+<img src="https://skillicons.dev/icons?i=js,html,css,tailwind" />
+</p>
 
-## 🎯 My Goal
+**Backend & Database**
 
-To become a well-rounded Full-Stack Developer with a strong foundation in backend engineering, databases, and deployment.
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-## 🌐 Connect With Me
+**Tools & Infrastructure**
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/z.zannn_/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itishomfauzan@gmail.com)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,bash,docker" />
+</p>
 
-
----
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### 💡 Learn consistently. Build practically. Improve continuously.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Itishom0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-*Thanks for visiting my profile!*
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itishom0&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Itishom0&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 🌱 Currently Exploring
+
+- Building scalable backend applications.
+- Designing clean and efficient REST APIs.
+- Database modeling and optimization.
+- Improving frontend development skills.
+- Linux server management and deployment.
+
+## 🎯 Goals
+
+- Become a well-rounded Full-Stack Developer.
+- Build useful and practical applications.
+- Strengthen backend engineering fundamentals.
+- Learn more about infrastructure and deployment.
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.instagram.com/z.zannn_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:itishomfauzan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%" />
+
+**"Consistency turns small progress into great achievements."**
 
 </div>
